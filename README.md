@@ -21,6 +21,8 @@
 # :sparkles: Jambaram-Web
 > ARAM(칼바람) champion combination recommendation system TODO: [Demo](https://www.jambaram.xyz)
 
+https://news-emotions-fe.vercel.app/
+
 </br>
 
 <h1>PS</h1>
